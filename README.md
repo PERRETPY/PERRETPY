@@ -1,4 +1,4 @@
-## Hi, I'm Pierre-Yves Perret, a Developer.
+## Hi, I'm Pierre-Yves Perret
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/perretpy)
 [![Twitter](https://img.shields.io/badge/-Twitter-299DED?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/perretpy)
